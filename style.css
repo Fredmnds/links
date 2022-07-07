@@ -1,0 +1,31 @@
+body,
+html {
+    background: #784a78;
+    height: 100%;
+    display: grid;
+}
+
+img {
+    border-radius: 50%;
+    width: 130px;
+    border: 8px groove rgb(15, 35, 126);
+
+}
+
+h3 {
+    padding-top: 30px;
+}
+
+.teste {
+    color: #ffffff;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #641662;
+    margin: auto;
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+button {
+    width: 80%;
+}
