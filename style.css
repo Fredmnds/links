@@ -9,7 +9,7 @@ img {
     border-radius: 50%;
     width: 130px;
     border: 8px groove rgb(15, 35, 126);
-
+    box-shadow: 0 0 10px rgb(31, 87, 172);
 }
 
 h3 {
@@ -24,9 +24,11 @@ h3 {
     margin: auto;
     padding-bottom: 4%;
     padding-top: 4%;
-    box-shadow: -5px 5px #0f0f0f23;
+    box-shadow: 0 0 1em rgb(255, 255, 255);
+
 }
 
 button {
     width: 80%;
+    box-shadow: 0 0 1em rgb(0, 0, 0);
 }
